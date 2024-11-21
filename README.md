@@ -16,6 +16,7 @@ This project demonstrates a practical application of particle filters for robot 
 - Python 3.7+
 - Pygame 2.0+
 - NumPy
+- Pandas
 
 ## Project Structure
 
